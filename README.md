@@ -15,4 +15,6 @@ The observations this dataset are based on different countries, it will be easie
 * Parameter tuning
 * Model performance
 
-#
+## Data
+
+![image](https://user-images.githubusercontent.com/93145713/169799294-2da0def1-979a-4353-b22a-fd2ab136417b.png)
