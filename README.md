@@ -30,6 +30,9 @@ The observations this dataset are based on different countries, it will be easie
 ## Developed a linear regression model
 
 R Squared : 0.8213194288487609
+
 Mean Squared Error : 16.416093444276733
+
 Mean Squared Log Error : 0.00412540425880913
+
 Cross valid score : 0.81
