@@ -26,3 +26,10 @@ The observations this dataset are based on different countries, it will be easie
 ## Cleaned data
 
 ![image](https://user-images.githubusercontent.com/93145713/169801993-b2cfc619-6bff-4d4d-8d63-6cbc971cd8d9.png)
+
+## Developed a linear regression model
+
+R Squared : 0.8213194288487609
+Mean Squared Error : 16.416093444276733
+Mean Squared Log Error : 0.00412540425880913
+Cross valid score : 0.81
